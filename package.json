@@ -1,0 +1,16 @@
+{
+  "name": "spice-of-asia-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static website and digital menu for Spice of Asia, a Pan-Asian restaurant in HRBR Layout, Kalyan Nagar, Bengaluru.",
+  "scripts": {
+    "build": "node build.mjs",
+    "preview": "node build.mjs && cd dist && python3 -m http.server 8080"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "sharp": "^0.34.4"
+  }
+}

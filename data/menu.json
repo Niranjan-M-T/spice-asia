@@ -1,0 +1,3293 @@
+{
+ "currency": "INR",
+ "sources": {
+  "food": "Swiggy listing (Kammanahalli/Kalyan Nagar outlet), fetched 2026-10-27",
+  "drinks": "Printed dine-in menu photographed by the owner; prices may be outdated"
+ },
+ "sections": [
+  {
+   "id": "soups",
+   "title": "Soups",
+   "subtitle": "Broths from Bangkok to Lhasa",
+   "kind": "food",
+   "items": [
+    {
+     "id": "tibetan-thukpa",
+     "name": "Tibetan Thukpa",
+     "cuisine": "Tibetan",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": "Veg",
+       "price": 200,
+       "diet": "veg"
+      },
+      {
+       "label": "Chicken",
+       "price": 240,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Seafood",
+       "price": 270,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "mixed",
+     "seafood_note": true
+    },
+    {
+     "id": "manchow-soup",
+     "name": "Manchow Soup",
+     "cuisine": "Chinese",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": "Veg",
+       "price": 200,
+       "diet": "veg"
+      },
+      {
+       "label": "Chicken",
+       "price": 240,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Seafood",
+       "price": 270,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "mixed",
+     "seafood_note": true
+    },
+    {
+     "id": "wonton-soup",
+     "name": "Wonton Soup",
+     "cuisine": "Chinese",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": "Veg",
+       "price": 200,
+       "diet": "veg"
+      },
+      {
+       "label": "Chicken",
+       "price": 240,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Seafood",
+       "price": 270,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "mixed",
+     "seafood_note": true
+    },
+    {
+     "id": "thai-basil-corn-soup",
+     "name": "Thai Basil Corn Soup",
+     "cuisine": "Thai",
+     "spicy": true,
+     "note": null,
+     "variants": [
+      {
+       "label": "Veg",
+       "price": 200,
+       "diet": "veg"
+      },
+      {
+       "label": "Chicken",
+       "price": 240,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Seafood",
+       "price": 270,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "mixed",
+     "seafood_note": true
+    },
+    {
+     "id": "lemon-coriander-soup",
+     "name": "Lemon Coriander Soup",
+     "cuisine": "Chinese",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": "Veg",
+       "price": 200,
+       "diet": "veg"
+      },
+      {
+       "label": "Chicken",
+       "price": 240,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Seafood",
+       "price": 270,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "mixed",
+     "seafood_note": true
+    },
+    {
+     "id": "hot-sour-soup",
+     "name": "Hot & Sour Soup",
+     "cuisine": "Chinese",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": "Veg",
+       "price": 200,
+       "diet": "veg"
+      },
+      {
+       "label": "Chicken",
+       "price": 240,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Seafood",
+       "price": 270,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "mixed",
+     "seafood_note": true
+    },
+    {
+     "id": "tom-yum-soup",
+     "name": "Tom Yum Soup",
+     "cuisine": "Thai",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": "Veg",
+       "price": 200,
+       "diet": "veg"
+      },
+      {
+       "label": "Chicken",
+       "price": 240,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Seafood",
+       "price": 270,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "mixed",
+     "seafood_note": true
+    },
+    {
+     "id": "spice-of-asia-clear-soup",
+     "name": "Spice of Asia Clear Soup",
+     "cuisine": "Chinese",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": "Veg",
+       "price": 200,
+       "diet": "veg"
+      },
+      {
+       "label": "Chicken",
+       "price": 240,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Seafood",
+       "price": 270,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "mixed",
+     "seafood_note": true
+    },
+    {
+     "id": "talumein-soup",
+     "name": "Talumein Soup",
+     "cuisine": "Chinese",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": "Veg",
+       "price": 200,
+       "diet": "veg"
+      },
+      {
+       "label": "Chicken",
+       "price": 240,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Seafood",
+       "price": 270,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "mixed",
+     "seafood_note": true
+    },
+    {
+     "id": "tom-kha-gai-soup",
+     "name": "Tom Kha Gai Soup",
+     "cuisine": "Thai",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": "Veg",
+       "price": 200,
+       "diet": "veg"
+      },
+      {
+       "label": "Chicken",
+       "price": 240,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Seafood",
+       "price": 270,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "mixed",
+     "seafood_note": true
+    },
+    {
+     "id": "vietnamese-corn-soup",
+     "name": "Vietnamese Corn Soup",
+     "cuisine": "Vietnamese",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": "Veg",
+       "price": 200,
+       "diet": "veg"
+      },
+      {
+       "label": "Chicken",
+       "price": 240,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Seafood",
+       "price": 270,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "mixed",
+     "seafood_note": true
+    }
+   ]
+  },
+  {
+   "id": "veg-starters",
+   "title": "Veg Starters",
+   "subtitle": "Wok-tossed and crisp-fried",
+   "kind": "food",
+   "items": [
+    {
+     "id": "lotus-stem-sweet-chilli-thai",
+     "name": "Lotus Stem Sweet Chilli Thai",
+     "cuisine": "Thai",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": null,
+       "price": 360,
+       "diet": "veg"
+      }
+     ],
+     "diet": "veg"
+    },
+    {
+     "id": "devil-s-potato",
+     "name": "Devil's Potato",
+     "cuisine": "Chinese",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": null,
+       "price": 360,
+       "diet": "veg"
+      }
+     ],
+     "diet": "veg"
+    },
+    {
+     "id": "mushroom-ginger-chilli",
+     "name": "Mushroom Ginger Chilli",
+     "cuisine": "Chinese",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": null,
+       "price": 360,
+       "diet": "veg"
+      }
+     ],
+     "diet": "veg"
+    },
+    {
+     "id": "baby-corn-scallion",
+     "name": "Baby Corn Scallion",
+     "cuisine": "Chinese",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": null,
+       "price": 360,
+       "diet": "veg"
+      }
+     ],
+     "diet": "veg"
+    },
+    {
+     "id": "kung-pao-cottage-cheese",
+     "name": "Kung Pao Cottage Cheese",
+     "cuisine": "Chinese",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": null,
+       "price": 360,
+       "diet": "veg"
+      }
+     ],
+     "diet": "veg"
+    },
+    {
+     "id": "mix-veg-salt-pepper",
+     "name": "Mix Veg Salt & Pepper",
+     "cuisine": "Chinese",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": null,
+       "price": 360,
+       "diet": "veg"
+      }
+     ],
+     "diet": "veg"
+    },
+    {
+     "id": "sweet-chilli-potato",
+     "name": "Sweet Chilli Potato",
+     "cuisine": "Chinese",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": null,
+       "price": 360,
+       "diet": "veg"
+      }
+     ],
+     "diet": "veg"
+    },
+    {
+     "id": "tofu-hunan",
+     "name": "Tofu Hunan",
+     "cuisine": "Chinese",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": null,
+       "price": 360,
+       "diet": "veg"
+      }
+     ],
+     "diet": "veg"
+    }
+   ]
+  },
+  {
+   "id": "chicken-starters",
+   "title": "Chicken Starters",
+   "subtitle": "Korean crunch, Thai basil and Indo-Chinese heat",
+   "kind": "food",
+   "items": [
+    {
+     "id": "thai-basil-crispy-chicken",
+     "name": "Thai Basil Crispy Chicken",
+     "cuisine": "Thai",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": null,
+       "price": 420,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "nonveg"
+    },
+    {
+     "id": "dragon-chicken",
+     "name": "Dragon Chicken",
+     "cuisine": "Chinese",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": null,
+       "price": 420,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "nonveg"
+    },
+    {
+     "id": "korean-fried-chicken",
+     "name": "Korean Fried Chicken",
+     "cuisine": "Korean",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": null,
+       "price": 420,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "nonveg"
+    },
+    {
+     "id": "devil-s-chicken",
+     "name": "Devil's Chicken",
+     "cuisine": "Chinese",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": null,
+       "price": 420,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "nonveg"
+    },
+    {
+     "id": "salt-pepper-chicken",
+     "name": "Salt & Pepper Chicken",
+     "cuisine": "Chinese",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": null,
+       "price": 420,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "nonveg"
+    },
+    {
+     "id": "spice-of-asia-special-drums",
+     "name": "Spice of Asia Special Drums",
+     "cuisine": "Chinese",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": null,
+       "price": 420,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "nonveg"
+    },
+    {
+     "id": "wings-on-fire",
+     "name": "Wings on Fire",
+     "cuisine": "Chinese",
+     "spicy": true,
+     "note": null,
+     "variants": [
+      {
+       "label": null,
+       "price": 420,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "nonveg"
+    },
+    {
+     "id": "korean-popcorn-chicken",
+     "name": "Korean Popcorn Chicken",
+     "cuisine": "Korean",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": null,
+       "price": 420,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "nonveg"
+    },
+    {
+     "id": "korean-tossed-chicken",
+     "name": "Korean Tossed Chicken",
+     "cuisine": "Korean",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": null,
+       "price": 420,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "nonveg"
+    },
+    {
+     "id": "teriyaki-chicken",
+     "name": "Teriyaki Chicken",
+     "cuisine": "Japanese",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": null,
+       "price": 420,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "nonveg"
+    }
+   ]
+  },
+  {
+   "id": "seafood-starters",
+   "title": "Seafood Starters",
+   "subtitle": "Pick your catch, then your style",
+   "kind": "food",
+   "items": [
+    {
+     "id": "seafood-65",
+     "name": "Seafood 65",
+     "cuisine": "Indo-Chinese",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": "Fish",
+       "price": 460,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Octopus",
+       "price": 450,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Prawns",
+       "price": 490,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Squid",
+       "price": 490,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "nonveg"
+    },
+    {
+     "id": "korean-tossed-seafood",
+     "name": "Korean Tossed Seafood",
+     "cuisine": "Korean",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": "Fish",
+       "price": 460,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Octopus",
+       "price": 450,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Prawns",
+       "price": 490,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Squid",
+       "price": 490,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "nonveg"
+    },
+    {
+     "id": "seafood-apollo",
+     "name": "Seafood Apollo",
+     "cuisine": "Indo-Chinese",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": "Fish",
+       "price": 460,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Octopus",
+       "price": 450,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Prawns",
+       "price": 490,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Squid",
+       "price": 490,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "nonveg"
+    },
+    {
+     "id": "phuket-style-seafood",
+     "name": "Phuket-Style Seafood",
+     "cuisine": "Thai",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": "Fish",
+       "price": 460,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Octopus",
+       "price": 450,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Prawns",
+       "price": 490,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Squid",
+       "price": 490,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "nonveg"
+    },
+    {
+     "id": "malaysian-chilli-seafood",
+     "name": "Malaysian Chilli Seafood",
+     "cuisine": "Malaysian",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": "Fish",
+       "price": 460,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Octopus",
+       "price": 450,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Prawns",
+       "price": 490,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Squid",
+       "price": 490,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "nonveg"
+    },
+    {
+     "id": "thai-basil-seafood",
+     "name": "Thai Basil Seafood",
+     "cuisine": "Thai",
+     "spicy": true,
+     "note": null,
+     "variants": [
+      {
+       "label": "Fish",
+       "price": 460,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Octopus",
+       "price": 450,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Prawns",
+       "price": 490,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Squid",
+       "price": 490,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "nonveg"
+    },
+    {
+     "id": "salt-pepper-seafood",
+     "name": "Salt & Pepper Seafood",
+     "cuisine": "Chinese",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": "Fish",
+       "price": 460,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Octopus",
+       "price": 450,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Prawns",
+       "price": 490,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Squid",
+       "price": 490,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "nonveg"
+    },
+    {
+     "id": "seafood-tempura",
+     "name": "Seafood Tempura",
+     "cuisine": "Japanese",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": "Fish",
+       "price": 460,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Octopus",
+       "price": 450,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Prawns",
+       "price": 490,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Squid",
+       "price": 490,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "nonveg"
+    }
+   ]
+  },
+  {
+   "id": "dumplings",
+   "title": "Dumplings & Momos",
+   "subtitle": "Every basket comes with three sauces",
+   "kind": "food",
+   "items": [
+    {
+     "id": "jade-mix-veg-dumplings",
+     "name": "Jade Mix Veg Dumplings",
+     "cuisine": "Chinese",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": null,
+       "price": 279,
+       "diet": "veg"
+      }
+     ],
+     "diet": "veg"
+    },
+    {
+     "id": "schezwan-tofu-veg",
+     "name": "Schezwan Tofu Veg",
+     "cuisine": "Chinese",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": null,
+       "price": 279,
+       "diet": "veg"
+      }
+     ],
+     "diet": "veg"
+    },
+    {
+     "id": "spicy-mushroom-dumplings",
+     "name": "Spicy Mushroom Dumplings",
+     "cuisine": "Chinese",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": null,
+       "price": 279,
+       "diet": "veg"
+      }
+     ],
+     "diet": "veg"
+    },
+    {
+     "id": "veg-momos",
+     "name": "Veg Momos",
+     "cuisine": "Tibetan",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": null,
+       "price": 279,
+       "diet": "veg"
+      }
+     ],
+     "diet": "veg"
+    },
+    {
+     "id": "chicken-gyoza",
+     "name": "Chicken Gyoza",
+     "cuisine": "Japanese",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": null,
+       "price": 330,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "nonveg"
+    },
+    {
+     "id": "chicken-jhol-momos",
+     "name": "Chicken Jhol Momos",
+     "cuisine": "Tibetan",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": null,
+       "price": 350,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "nonveg"
+    },
+    {
+     "id": "chicken-juicy-dim-sums",
+     "name": "Chicken Juicy Dim Sums",
+     "cuisine": "Chinese",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": null,
+       "price": 330,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "nonveg"
+    },
+    {
+     "id": "prawn-siu-mai-open-dumplings",
+     "name": "Prawn Siu Mai (Open Dumplings)",
+     "cuisine": "Chinese",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": null,
+       "price": 375,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "nonveg"
+    }
+   ]
+  },
+  {
+   "id": "wok-mains",
+   "title": "Wok Mains",
+   "subtitle": "Your choice of sauce, tossed with veg, chicken or seafood",
+   "kind": "food",
+   "items": [
+    {
+     "id": "sweet-chilli-sauce",
+     "name": "Sweet Chilli Sauce",
+     "cuisine": "Chinese",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": "Veg",
+       "price": 355,
+       "diet": "veg"
+      },
+      {
+       "label": "Chicken",
+       "price": 420,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Seafood",
+       "price": 499,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "mixed",
+     "seafood_note": true
+    },
+    {
+     "id": "thai-basil-sauce",
+     "name": "Thai Basil Sauce",
+     "cuisine": "Thai",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": "Veg",
+       "price": 355,
+       "diet": "veg"
+      },
+      {
+       "label": "Chicken",
+       "price": 420,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Seafood",
+       "price": 499,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "mixed",
+     "seafood_note": true
+    },
+    {
+     "id": "hunan-sauce",
+     "name": "Hunan Sauce",
+     "cuisine": "Chinese",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": "Veg",
+       "price": 355,
+       "diet": "veg"
+      },
+      {
+       "label": "Chicken",
+       "price": 420,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Seafood",
+       "price": 499,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "mixed",
+     "seafood_note": true
+    },
+    {
+     "id": "chilli-oyster",
+     "name": "Chilli Oyster",
+     "cuisine": "Chinese",
+     "spicy": false,
+     "note": "[Veg Preparation]",
+     "variants": [
+      {
+       "label": "Veg",
+       "price": 355,
+       "diet": "veg"
+      },
+      {
+       "label": "Chicken",
+       "price": 420,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Seafood",
+       "price": 499,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "mixed",
+     "seafood_note": true
+    },
+    {
+     "id": "hot-black-bean-sauce",
+     "name": "Hot Black Bean Sauce",
+     "cuisine": "Chinese",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": "Veg",
+       "price": 355,
+       "diet": "veg"
+      },
+      {
+       "label": "Chicken",
+       "price": 420,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Seafood",
+       "price": 499,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "mixed",
+     "seafood_note": true
+    },
+    {
+     "id": "malay-sauce",
+     "name": "Malay Sauce",
+     "cuisine": "Malaysian",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": "Veg",
+       "price": 355,
+       "diet": "veg"
+      },
+      {
+       "label": "Chicken",
+       "price": 420,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Seafood",
+       "price": 499,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "mixed",
+     "seafood_note": true
+    },
+    {
+     "id": "rian-sauce",
+     "name": "Rian Sauce",
+     "cuisine": "Chinese",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": "Veg",
+       "price": 355,
+       "diet": "veg"
+      },
+      {
+       "label": "Chicken",
+       "price": 420,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Seafood",
+       "price": 499,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "mixed",
+     "seafood_note": true
+    },
+    {
+     "id": "schezwan-sauce",
+     "name": "Schezwan Sauce",
+     "cuisine": "Chinese",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": "Veg",
+       "price": 355,
+       "diet": "veg"
+      },
+      {
+       "label": "Chicken",
+       "price": 420,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Seafood",
+       "price": 499,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "mixed",
+     "seafood_note": true
+    }
+   ]
+  },
+  {
+   "id": "curries",
+   "title": "Curries & Khao Suey",
+   "subtitle": "Thai curries with jasmine rice and Burmese coconut noodle soup",
+   "kind": "food",
+   "items": [
+    {
+     "id": "burmese-khao-suey",
+     "name": "Burmese Khao Suey",
+     "cuisine": "Burmese",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": "Veg",
+       "price": 355,
+       "diet": "veg"
+      },
+      {
+       "label": "Chicken",
+       "price": 470,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Seafood",
+       "price": 510,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "mixed",
+     "seafood_note": true
+    },
+    {
+     "id": "masaman-curry-with-jasmine-rice",
+     "name": "Masaman Curry with Jasmine Rice",
+     "cuisine": "Thai",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": "Veg",
+       "price": 355,
+       "diet": "veg"
+      },
+      {
+       "label": "Chicken",
+       "price": 420,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Seafood",
+       "price": 499,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "mixed",
+     "seafood_note": true
+    },
+    {
+     "id": "thai-curry-with-jasmine-rice",
+     "name": "Thai Curry with Jasmine Rice",
+     "cuisine": "Thai",
+     "spicy": false,
+     "note": "Choose green, red or yellow curry",
+     "variants": [
+      {
+       "label": "Veg",
+       "price": 355,
+       "diet": "veg"
+      },
+      {
+       "label": "Chicken",
+       "price": 420,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Seafood",
+       "price": 499,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "mixed",
+     "seafood_note": true
+    }
+   ]
+  },
+  {
+   "id": "korean",
+   "title": "Korean Favourites",
+   "subtitle": "Rice cakes, rice rolls and sweet-sour crunch",
+   "kind": "food",
+   "items": [
+    {
+     "id": "tteokbokki",
+     "name": "Tteokbokki",
+     "cuisine": "Korean",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": "Veg",
+       "price": 355,
+       "diet": "veg"
+      },
+      {
+       "label": "Chicken",
+       "price": 420,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Seafood",
+       "price": 499,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "mixed",
+     "seafood_note": true
+    },
+    {
+     "id": "kimbap",
+     "name": "Kimbap",
+     "cuisine": "Korean",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": "Veg",
+       "price": 355,
+       "diet": "veg"
+      },
+      {
+       "label": "Chicken",
+       "price": 420,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Seafood",
+       "price": 499,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "mixed",
+     "seafood_note": true
+    },
+    {
+     "id": "tangsuyuk",
+     "name": "Tangsuyuk",
+     "cuisine": "Korean",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": "Veg",
+       "price": 355,
+       "diet": "veg"
+      },
+      {
+       "label": "Chicken",
+       "price": 420,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Seafood",
+       "price": 499,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "mixed",
+     "seafood_note": true
+    }
+   ]
+  },
+  {
+   "id": "rice-paper-rolls",
+   "title": "Rice Paper Rolls",
+   "subtitle": "Fresh Vietnamese-style rolls",
+   "kind": "food",
+   "items": [
+    {
+     "id": "vietnamese-rice-paper-roll",
+     "name": "Vietnamese Rice Paper Roll",
+     "cuisine": "Vietnamese",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": "Veg",
+       "price": 355,
+       "diet": "veg"
+      },
+      {
+       "label": "Chicken",
+       "price": 420,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Seafood",
+       "price": 499,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "mixed",
+     "seafood_note": true
+    }
+   ]
+  },
+  {
+   "id": "chopsuey",
+   "title": "Chopsuey",
+   "subtitle": "Crisp noodles under a glossy sauce",
+   "kind": "food",
+   "items": [
+    {
+     "id": "american-chopsuey",
+     "name": "American Chopsuey",
+     "cuisine": "Chinese",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": "Veg",
+       "price": 315,
+       "diet": "veg"
+      },
+      {
+       "label": "Chicken",
+       "price": 375,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Seafood",
+       "price": 425,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "mixed",
+     "seafood_note": true
+    },
+    {
+     "id": "dragon-chopsuey",
+     "name": "Dragon Chopsuey",
+     "cuisine": "Chinese",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": "Veg",
+       "price": 315,
+       "diet": "veg"
+      },
+      {
+       "label": "Chicken",
+       "price": 375,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Seafood",
+       "price": 425,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "mixed",
+     "seafood_note": true
+    },
+    {
+     "id": "chinese-chopsuey",
+     "name": "Chinese Chopsuey",
+     "cuisine": "Chinese",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": "Veg",
+       "price": 315,
+       "diet": "veg"
+      },
+      {
+       "label": "Chicken",
+       "price": 375,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Seafood",
+       "price": 425,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "mixed",
+     "seafood_note": true
+    }
+   ]
+  },
+  {
+   "id": "fried-rice",
+   "title": "Fried Rice",
+   "subtitle": "Smoky wok rice from across Asia",
+   "kind": "food",
+   "items": [
+    {
+     "id": "burnt-garlic-fried-rice",
+     "name": "Burnt Garlic Fried Rice",
+     "cuisine": "Chinese",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": "Veg",
+       "price": 255,
+       "diet": "veg"
+      },
+      {
+       "label": "Chicken",
+       "price": 275,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Seafood",
+       "price": 315,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "mixed",
+     "seafood_note": true
+    },
+    {
+     "id": "chilli-garlic-fried-rice",
+     "name": "Chilli Garlic Fried Rice",
+     "cuisine": "Chinese",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": "Veg",
+       "price": 255,
+       "diet": "veg"
+      },
+      {
+       "label": "Chicken",
+       "price": 275,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Seafood",
+       "price": 315,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "mixed",
+     "seafood_note": true
+    },
+    {
+     "id": "schezwan-fried-rice",
+     "name": "Schezwan Fried Rice",
+     "cuisine": "Chinese",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": "Veg",
+       "price": 255,
+       "diet": "veg"
+      },
+      {
+       "label": "Chicken",
+       "price": 275,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Seafood",
+       "price": 315,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "mixed",
+     "seafood_note": true
+    },
+    {
+     "id": "nasi-goreng-fried-rice",
+     "name": "Nasi Goreng Fried Rice",
+     "cuisine": "Malaysian",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": "Veg",
+       "price": 255,
+       "diet": "veg"
+      },
+      {
+       "label": "Chicken",
+       "price": 275,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Seafood",
+       "price": 315,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "mixed",
+     "seafood_note": true
+    },
+    {
+     "id": "kimchi-fried-rice",
+     "name": "Kimchi Fried Rice",
+     "cuisine": "Korean",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": "Veg",
+       "price": 255,
+       "diet": "veg"
+      },
+      {
+       "label": "Chicken",
+       "price": 275,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Seafood",
+       "price": 315,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "mixed",
+     "seafood_note": true
+    },
+    {
+     "id": "thai-spicy-basil-fried-rice",
+     "name": "Thai Spicy Basil Fried Rice",
+     "cuisine": "Thai",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": "Veg",
+       "price": 255,
+       "diet": "veg"
+      },
+      {
+       "label": "Chicken",
+       "price": 275,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Seafood",
+       "price": 315,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "mixed",
+     "seafood_note": true
+    },
+    {
+     "id": "steamed-rice",
+     "name": "Steamed Rice",
+     "cuisine": "Chinese",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": null,
+       "price": 200,
+       "diet": "veg"
+      }
+     ],
+     "diet": "veg"
+    },
+    {
+     "id": "corn-pepper-fried-rice",
+     "name": "Corn & Pepper Fried Rice",
+     "cuisine": "Chinese",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": "Veg",
+       "price": 255,
+       "diet": "veg"
+      },
+      {
+       "label": "Chicken",
+       "price": 275,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Seafood",
+       "price": 315,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "mixed",
+     "seafood_note": true
+    },
+    {
+     "id": "ginger-pimento-fried-rice",
+     "name": "Ginger & Pimento Fried Rice",
+     "cuisine": "Chinese",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": "Veg",
+       "price": 255,
+       "diet": "veg"
+      },
+      {
+       "label": "Chicken",
+       "price": 275,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Seafood",
+       "price": 315,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "mixed",
+     "seafood_note": true
+    }
+   ]
+  },
+  {
+   "id": "noodles",
+   "title": "Noodles",
+   "subtitle": "Hakka, Singapore, Malaysian and more",
+   "kind": "food",
+   "items": [
+    {
+     "id": "malaysian-flat-noodles",
+     "name": "Malaysian Flat Noodles",
+     "cuisine": "Malaysian",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": "Veg",
+       "price": 255,
+       "diet": "veg"
+      },
+      {
+       "label": "Chicken",
+       "price": 275,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Seafood",
+       "price": 315,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "mixed",
+     "seafood_note": true
+    },
+    {
+     "id": "lo-mein-noodles",
+     "name": "Lo Mein Noodles",
+     "cuisine": "Chinese",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": "Veg",
+       "price": 255,
+       "diet": "veg"
+      },
+      {
+       "label": "Chicken",
+       "price": 275,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Seafood",
+       "price": 315,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "mixed",
+     "seafood_note": true
+    },
+    {
+     "id": "schezwan-noodles",
+     "name": "Schezwan Noodles",
+     "cuisine": "Chinese",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": "Veg",
+       "price": 255,
+       "diet": "veg"
+      },
+      {
+       "label": "Chicken",
+       "price": 275,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Seafood",
+       "price": 315,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "mixed",
+     "seafood_note": true
+    },
+    {
+     "id": "singapore-noodles",
+     "name": "Singapore Noodles",
+     "cuisine": "Singaporean",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": "Veg",
+       "price": 255,
+       "diet": "veg"
+      },
+      {
+       "label": "Chicken",
+       "price": 275,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Seafood",
+       "price": 315,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "mixed",
+     "seafood_note": true
+    },
+    {
+     "id": "hakka-noodles",
+     "name": "Hakka Noodles",
+     "cuisine": "Chinese",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": "Veg",
+       "price": 255,
+       "diet": "veg"
+      },
+      {
+       "label": "Chicken",
+       "price": 275,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Seafood",
+       "price": 315,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "mixed",
+     "seafood_note": true
+    },
+    {
+     "id": "chilli-garlic-noodles",
+     "name": "Chilli Garlic Noodles",
+     "cuisine": "Chinese",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": "Veg",
+       "price": 255,
+       "diet": "veg"
+      },
+      {
+       "label": "Chicken",
+       "price": 275,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Seafood",
+       "price": 315,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "mixed",
+     "seafood_note": true
+    },
+    {
+     "id": "chowmein",
+     "name": "Chowmein",
+     "cuisine": "Chinese",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": "Veg",
+       "price": 255,
+       "diet": "veg"
+      },
+      {
+       "label": "Chicken",
+       "price": 275,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Seafood",
+       "price": 315,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "mixed",
+     "seafood_note": true
+    },
+    {
+     "id": "dandan-mein-noodles",
+     "name": "Dandan Mein Noodles",
+     "cuisine": "Chinese",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": "Veg",
+       "price": 255,
+       "diet": "veg"
+      },
+      {
+       "label": "Chicken",
+       "price": 275,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Seafood",
+       "price": 315,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "mixed",
+     "seafood_note": true
+    }
+   ]
+  },
+  {
+   "id": "ramen",
+   "title": "Ramen",
+   "subtitle": "Big bowls, three moods",
+   "kind": "food",
+   "items": [
+    {
+     "id": "hot-spicy-ramen",
+     "name": "Hot & Spicy Ramen",
+     "cuisine": "Japanese",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": "Veg",
+       "price": 279,
+       "diet": "veg"
+      },
+      {
+       "label": "Chicken",
+       "price": 309,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Seafood",
+       "price": 309,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "mixed",
+     "seafood_note": true
+    },
+    {
+     "id": "kimchi-ramen",
+     "name": "Kimchi Ramen",
+     "cuisine": "Korean",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": "Veg",
+       "price": 279,
+       "diet": "veg"
+      },
+      {
+       "label": "Chicken",
+       "price": 309,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Seafood",
+       "price": 309,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "mixed",
+     "seafood_note": true
+    },
+    {
+     "id": "sweet-spicy-ramen",
+     "name": "Sweet & Spicy Ramen",
+     "cuisine": "Japanese",
+     "spicy": false,
+     "note": null,
+     "variants": [
+      {
+       "label": "Veg",
+       "price": 279,
+       "diet": "veg"
+      },
+      {
+       "label": "Chicken",
+       "price": 309,
+       "diet": "nonveg"
+      },
+      {
+       "label": "Seafood",
+       "price": 309,
+       "diet": "nonveg"
+      }
+     ],
+     "diet": "mixed",
+     "seafood_note": true
+    }
+   ]
+  },
+  {
+   "id": "mojitos",
+   "title": "Mojitos",
+   "subtitle": "Muddled mint, crushed ice",
+   "kind": "drinks",
+   "items": [
+    {
+     "id": "mojitos-virgin-mojito",
+     "name": "Virgin Mojito",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 169,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "mojitos-lime-and-mint",
+     "name": "Lime and Mint",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 149,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "mojitos-blueberry-mojito",
+     "name": "Blueberry Mojito",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 149,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "mojitos-orange-mojito",
+     "name": "Orange Mojito",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 149,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "mojitos-strawberry-mojito",
+     "name": "Strawberry Mojito",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 149,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "mojitos-kiwi-mojito",
+     "name": "Kiwi Mojito",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 149,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "mojitos-blue-lime-mojito",
+     "name": "Blue Lime Mojito",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 149,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "mojitos-blackcurrant-mojito",
+     "name": "Blackcurrant Mojito",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 149,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "mojitos-very-berry-mojito",
+     "name": "Very Berry Mojito",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 169,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "mojitos-green-apple-mojito",
+     "name": "Green Apple Mojito",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 149,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "mojitos-watermelon-mojito",
+     "name": "Watermelon Mojito",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 149,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "mojitos-passion-fruit-mojito",
+     "name": "Passion Fruit Mojito",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 149,
+       "diet": "veg"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "classic-mocktails",
+   "title": "Classic Mocktails",
+   "subtitle": "The old favourites",
+   "kind": "drinks",
+   "items": [
+    {
+     "id": "classic-mocktails-pi-a-colada",
+     "name": "Piña Colada",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": null,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "classic-mocktails-blue-ocean",
+     "name": "Blue Ocean",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 199,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "classic-mocktails-arnold-palmer",
+     "name": "Arnold Palmer",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 220,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "classic-mocktails-strawberry-lemonade-fizz",
+     "name": "Strawberry Lemonade Fizz",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 199,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "classic-mocktails-mint-sparkle",
+     "name": "Mint Sparkle",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 199,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "classic-mocktails-dragon-blood-punch",
+     "name": "Dragon Blood Punch",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 220,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "classic-mocktails-mixed-fruit-punch",
+     "name": "Mixed Fruit Punch",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 220,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "classic-mocktails-watermelon-fizz",
+     "name": "Watermelon Fizz",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 199,
+       "diet": "veg"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "signature-mocktails",
+   "title": "Signature Mocktails",
+   "subtitle": "Our bar’s own inventions",
+   "kind": "drinks",
+   "items": [
+    {
+     "id": "signature-mocktails-peach-on-the-beach",
+     "name": "Peach on the Beach",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 249,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "signature-mocktails-sunrise",
+     "name": "Sunrise",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 249,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "signature-mocktails-kuch-bhi",
+     "name": "Kuch Bhi",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 249,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "signature-mocktails-hypnotize",
+     "name": "Hypnotize",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 220,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "signature-mocktails-police",
+     "name": "Police",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 119,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "signature-mocktails-bloody-guava",
+     "name": "Bloody Guava",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 220,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "signature-mocktails-coke-mafia",
+     "name": "Coke Mafia",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 119,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "signature-mocktails-mood-swing",
+     "name": "Mood Swing",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 220,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "signature-mocktails-frozen-lady",
+     "name": "Frozen Lady",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 200,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "signature-mocktails-barman-special",
+     "name": "Barman Special",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 249,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "signature-mocktails-spice-of-asia-special",
+     "name": "Spice of Asia Special",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 299,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "signature-mocktails-bob-marley",
+     "name": "Bob Marley",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 220,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "signature-mocktails-litchi-love-with-black",
+     "name": "Litchi Love with Black",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 199,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "signature-mocktails-mystery-summer-spritzer",
+     "name": "Mystery Summer Spritzer",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 220,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "signature-mocktails-coco-sunset",
+     "name": "Coco Sunset",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 220,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "signature-mocktails-blue-hawaiian",
+     "name": "Blue Hawaiian",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 220,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "signature-mocktails-iced-vanilla-espresso",
+     "name": "Iced Vanilla Espresso",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 220,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "signature-mocktails-rainbow-paradise",
+     "name": "Rainbow Paradise",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 249,
+       "diet": "veg"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "milkshakes",
+   "title": "Milkshakes",
+   "subtitle": "Thick, cold and generous",
+   "kind": "drinks",
+   "items": [
+    {
+     "id": "milkshakes-vanilla",
+     "name": "Vanilla",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 199,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "milkshakes-chocolate",
+     "name": "Chocolate",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 199,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "milkshakes-strawberry",
+     "name": "Strawberry",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 199,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "milkshakes-blueberry",
+     "name": "Blueberry",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 199,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "milkshakes-blackcurrant",
+     "name": "Blackcurrant",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 199,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "milkshakes-very-berry",
+     "name": "Very Berry",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 199,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "milkshakes-oreo",
+     "name": "Oreo",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 199,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "milkshakes-tender-coconut",
+     "name": "Tender Coconut",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 199,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "milkshakes-barman-special",
+     "name": "Barman Special",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 249,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "milkshakes-mango",
+     "name": "Mango",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 199,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "milkshakes-cold-coffee",
+     "name": "Cold Coffee",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 199,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "milkshakes-banana",
+     "name": "Banana",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 199,
+       "diet": "veg"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "frappuccinos",
+   "title": "Frappuccinos",
+   "subtitle": "Blended coffee, café style",
+   "kind": "drinks",
+   "items": [
+    {
+     "id": "frappuccinos-caramel",
+     "name": "Caramel",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 199,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "frappuccinos-hazelnut",
+     "name": "Hazelnut",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 199,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "frappuccinos-irish",
+     "name": "Irish",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 199,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "frappuccinos-cookie-crumble",
+     "name": "Cookie Crumble",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 199,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "frappuccinos-espresso-coffee",
+     "name": "Espresso Coffee",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 199,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "frappuccinos-vanilla",
+     "name": "Vanilla",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 199,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "frappuccinos-coconut-coffee",
+     "name": "Coconut Coffee",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 199,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "frappuccinos-tropical-iceberg",
+     "name": "Tropical Iceberg",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 199,
+       "diet": "veg"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "iced-tea",
+   "title": "Iced Tea & Asian Lattes",
+   "subtitle": "From peach iced tea to Thai milk tea",
+   "kind": "drinks",
+   "items": [
+    {
+     "id": "iced-tea-peach-iced-tea",
+     "name": "Peach Iced Tea",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 150,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "iced-tea-lemon-iced-tea",
+     "name": "Lemon Iced Tea",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 150,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "iced-tea-watermelon-iced-tea",
+     "name": "Watermelon Iced Tea",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 150,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "iced-tea-strawberry-iced-tea",
+     "name": "Strawberry Iced Tea",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 150,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "iced-tea-japanese-matcha-latte",
+     "name": "Japanese Matcha Latte",
+     "cuisine": "Japanese",
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 250,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "iced-tea-taiwanese-taro",
+     "name": "Taiwanese Taro",
+     "cuisine": "Taiwanese",
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 250,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "iced-tea-thai-milk-tea",
+     "name": "Thai Milk Tea",
+     "cuisine": "Thai",
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 250,
+       "diet": "veg"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "popping-boba",
+   "title": "Popping Boba",
+   "subtitle": "Bubbles that burst",
+   "kind": "drinks",
+   "items": [
+    {
+     "id": "popping-boba-litchi",
+     "name": "Litchi",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 180,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "popping-boba-passion-fruit",
+     "name": "Passion Fruit",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 200,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "popping-boba-strawberry",
+     "name": "Strawberry",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 180,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "popping-boba-chocolate",
+     "name": "Chocolate",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 200,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "popping-boba-blueberry",
+     "name": "Blueberry",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 180,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "popping-boba-fusion",
+     "name": "Fusion",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 220,
+       "diet": "veg"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "soft-drinks",
+   "title": "Soft Drinks",
+   "subtitle": "Chilled",
+   "kind": "drinks",
+   "items": [
+    {
+     "id": "soft-drinks-coca-cola",
+     "name": "Coca-Cola",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 80,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "soft-drinks-thums-up",
+     "name": "Thums Up",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 80,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "soft-drinks-sprite",
+     "name": "Sprite",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 80,
+       "diet": "veg"
+      }
+     ]
+    },
+    {
+     "id": "soft-drinks-mountain-dew",
+     "name": "Mountain Dew",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": "veg",
+     "variants": [
+      {
+       "label": null,
+       "price": 80,
+       "diet": "veg"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "desserts",
+   "title": "Desserts",
+   "subtitle": "Something sweet to end the night",
+   "kind": "desserts",
+   "items": [
+    {
+     "id": "desserts-korean-chocolate-fudge",
+     "name": "Korean Chocolate Fudge",
+     "cuisine": "Korean",
+     "spicy": false,
+     "note": null,
+     "diet": null,
+     "variants": [
+      {
+       "label": null,
+       "price": 299,
+       "diet": null
+      }
+     ]
+    },
+    {
+     "id": "desserts-fresh-mango-custard",
+     "name": "Fresh Mango Custard",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": null,
+     "variants": [
+      {
+       "label": null,
+       "price": 349,
+       "diet": null
+      }
+     ]
+    },
+    {
+     "id": "desserts-mixed-fruit-custard",
+     "name": "Mixed Fruit Custard",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": null,
+     "variants": [
+      {
+       "label": null,
+       "price": 299,
+       "diet": null
+      }
+     ]
+    },
+    {
+     "id": "desserts-spice-of-asia-special",
+     "name": "Spice of Asia Special",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": null,
+     "variants": [
+      {
+       "label": null,
+       "price": 299,
+       "diet": null
+      }
+     ]
+    },
+    {
+     "id": "desserts-mango-sticky-rice",
+     "name": "Mango Sticky Rice",
+     "cuisine": "Thai",
+     "spicy": false,
+     "note": null,
+     "diet": null,
+     "variants": [
+      {
+       "label": null,
+       "price": 450,
+       "diet": null
+      }
+     ]
+    },
+    {
+     "id": "desserts-choco-cups",
+     "name": "Choco Cups",
+     "cuisine": null,
+     "spicy": false,
+     "note": null,
+     "diet": null,
+     "variants": [
+      {
+       "label": null,
+       "price": 299,
+       "diet": null
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

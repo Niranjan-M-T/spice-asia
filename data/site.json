@@ -1,0 +1,30 @@
+{
+  "name": "Spice of Asia",
+  "legalName": "Spice of Asia",
+  "tagline": "Pan-Asian Restaurant",
+  "description": "Spice of Asia is a lantern-lit Pan-Asian restaurant in HRBR Layout, Kalyan Nagar, Bengaluru, serving Korean, Chinese, Thai, Singaporean, Malaysian, Burmese and Tibetan dishes, plus mocktails, milkshakes and popping boba.",
+  "cuisines": ["Korean", "Chinese", "Thai", "Singaporean", "Malaysian", "Burmese", "Tibetan"],
+  "phone": "+917348844331",
+  "phoneDisplay": "+91 73488 44331",
+  "address": {
+    "street": "5M-422, 1st Floor, 2nd Block, HRBR Layout",
+    "locality": "Banaswadi",
+    "neighbourhood": "Kalyan Nagar",
+    "city": "Bengaluru",
+    "region": "Karnataka",
+    "regionCode": "KA",
+    "postalCode": "560043",
+    "country": "IN"
+  },
+  "geo": { "lat": 13.0234259, "lng": 77.6398476 },
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=SPICE+OF+ASIA+HRBR+Layout+2nd+Block+Bengaluru",
+  "hours": { "opens": "12:00", "closes": "23:59", "display": "12 noon – midnight", "days": "Every day" },
+  "costForTwo": 600,
+  "priceRange": "₹₹",
+  "sources": {
+    "address": "district.in listing",
+    "phone": "district.in listing",
+    "hours": "district.in listing",
+    "costForTwo": "district.in listing"
+  }
+}
